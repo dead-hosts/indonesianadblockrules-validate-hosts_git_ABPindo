@@ -1,9 +1,10 @@
-# About [repository-name]
+# About indonesianadblockrules-validate-hosts_git_ABPindo
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/indonesianadblockrules-validate-hosts_git_ABPindo.svg?branch=master)](https://travis-ci.org/dead-hosts/indonesianadblockrules-validate-hosts_git_ABPindo)
 
 ```
-[description]
+! ---------------------- advert blocking filters ----------------------!
+
 ```
 
 --------------------------------------------------------------------------------
