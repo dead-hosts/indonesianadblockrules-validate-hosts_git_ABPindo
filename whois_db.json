@@ -1280,9 +1280,9 @@
         "state": "future"
     },
     "ktrackdata.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
-        "state": "past"
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "state": "future"
     },
     "launchpoker.com": {
         "epoch": 1624838400.0,
@@ -1310,9 +1310,9 @@
         "state": "future"
     },
     "likaraoke.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
-        "state": "past"
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "state": "future"
     },
     "lintastogel.com": {
         "epoch": 1616198400.0,
