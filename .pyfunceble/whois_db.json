@@ -2480,8 +2480,8 @@
         "state": "future"
     },
     "totobet24.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "totobet4d.com": {
@@ -2590,9 +2590,9 @@
         "state": "future"
     },
     "useads.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
-        "state": "past"
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "state": "future"
     },
     "vidcpm.com": {
         "epoch": 1638057600.0,
