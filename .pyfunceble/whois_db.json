@@ -520,8 +520,8 @@
         "state": "future"
     },
     "caramenangtogel.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "casinoclubpoker.com": {
@@ -640,8 +640,8 @@
         "state": "future"
     },
     "daftarpokeronline.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "daftartaruhan.com": {
@@ -2647,6 +2647,11 @@
     "webiklan.com": {
         "epoch": 1620086400.0,
         "expiration_date": "04-may-2021",
+        "state": "future"
+    },
+    "webjudionline.com": {
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "webjuditerpercaya.com": {
