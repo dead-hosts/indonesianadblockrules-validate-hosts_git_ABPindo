@@ -495,8 +495,8 @@
         "state": "future"
     },
     "bursajudibola.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "cadaver.org": {
@@ -1535,9 +1535,9 @@
         "state": "future"
     },
     "nenenqq.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "neobola.club": {
         "epoch": 1593993600.0,
@@ -1820,8 +1820,8 @@
         "state": "future"
     },
     "pokerkings.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "pokerlistings.com": {
@@ -2137,11 +2137,11 @@
     "shitpassion.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "sinthaistudio.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "sitti.co.id": {
