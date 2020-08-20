@@ -32,7 +32,7 @@
     "1man1jar.org": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "1man2needles.com": {
         "epoch": 1624924800.0,
@@ -780,8 +780,8 @@
         "state": "future"
     },
     "everypoker.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "fanbangho.com": {
@@ -1307,7 +1307,7 @@
     "lemonparty.biz": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "lemonparty.org": {
         "epoch": 1601683200.0,
@@ -1432,7 +1432,7 @@
     "meatspin.biz": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "merryholidays.org": {
         "epoch": 1607040000.0,
@@ -1672,7 +1672,7 @@
     "painolympics.info": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "painolympics.org": {
         "epoch": 1601251200.0,
@@ -1742,6 +1742,11 @@
     "phudrour.net": {
         "epoch": 1623888000.0,
         "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
+    "planetjudi.com": {
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "planettoto.com": {
@@ -1902,7 +1907,7 @@
     "pondokpoker.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pondoktogel.com": {
         "epoch": 1620345600.0,
@@ -2087,7 +2092,7 @@
     "selfpwn.org": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "semarangtogel.com": {
         "epoch": 1613865600.0,
@@ -2337,7 +2342,7 @@
     "thehomo.org": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "themacuser.org": {
         "epoch": 1618531200.0,
@@ -2557,7 +2562,7 @@
     "tubgirl.me": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "tummiarunzpf.com": {
         "epoch": 1603929600.0,
