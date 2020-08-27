@@ -155,8 +155,8 @@
         "state": "future"
     },
     "accesstrade.co.id": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "actionpoker.com": {
@@ -222,7 +222,7 @@
     "adreviewcamp.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ads-link.net": {
         "epoch": 1732147200.0,
@@ -302,6 +302,11 @@
     "agentogel4d.com": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "agentogelresmi.com": {
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "ahcnxuepput.com": {
@@ -1402,12 +1407,12 @@
     "masteragentjudi.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "masteragentpoker.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "masteriklan.net": {
         "epoch": 1605744000.0,
@@ -2272,7 +2277,7 @@
     "taruhancasino.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "taruhanjudi.com": {
         "epoch": 1624406400.0,
@@ -2672,7 +2677,7 @@
     "websitejudi.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "whipcrack.org": {
         "epoch": 1620345600.0,
