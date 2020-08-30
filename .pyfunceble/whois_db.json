@@ -220,9 +220,10 @@
         "state": "future"
     },
     "adreviewcamp.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "ads-link.net": {
         "epoch": 1732147200.0,
@@ -922,6 +923,7 @@
     "hasiltogel.club": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "herdethi.net": {
@@ -1097,7 +1099,8 @@
     "ipoker.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "istana-impian.com": {
         "epoch": 1621987200.0,
@@ -1405,14 +1408,16 @@
         "state": "future"
     },
     "masteragentjudi.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "masteragentpoker.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "masteriklan.net": {
         "epoch": 1605744000.0,
@@ -1552,6 +1557,7 @@
     "neobola.club": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "newsupdatewe.info": {
@@ -2275,9 +2281,10 @@
         "state": "future"
     },
     "taruhancasino.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "taruhanjudi.com": {
         "epoch": 1624406400.0,
@@ -2675,9 +2682,10 @@
         "state": "future"
     },
     "websitejudi.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
-        "state": "past"
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "whipcrack.org": {
         "epoch": 1620345600.0,
