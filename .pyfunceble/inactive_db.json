@@ -162,10 +162,10 @@
             "status": "INACTIVE"
         },
         "nztoto.com": {
-            "included_at_epoch": 1596455216.638187,
-            "included_at_iso": "2020-08-03T11:46:56.638187",
-            "last_retested_at_epoch": 1598527746.319017,
-            "last_retested_at_iso": "2020-08-27T11:29:06.319017",
+            "included_at_epoch": 1599045653.684623,
+            "included_at_iso": "2020-09-02T11:20:53.684623",
+            "last_retested_at_epoch": 1599045653.684623,
+            "last_retested_at_iso": "2020-09-02T11:20:53.684623",
             "status": "INACTIVE"
         },
         "oralse.ca": {
