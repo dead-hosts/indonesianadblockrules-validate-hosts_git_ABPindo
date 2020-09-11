@@ -99,10 +99,10 @@
             "status": "INACTIVE"
         },
         "dzbx8qv1at614.cloudfront.net": {
-            "included_at_epoch": 1597231137.784253,
-            "included_at_iso": "2020-08-12T11:18:57.784253",
-            "last_retested_at_epoch": 1598527744.660039,
-            "last_retested_at_iso": "2020-08-27T11:29:04.660039",
+            "included_at_epoch": 1599823501.340977,
+            "included_at_iso": "2020-09-11T11:25:01.340977",
+            "last_retested_at_epoch": 1599823501.340977,
+            "last_retested_at_iso": "2020-09-11T11:25:01.340977",
             "status": "INACTIVE"
         },
         "hegarberetrof.pro": {
