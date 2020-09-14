@@ -1,7 +1,8 @@
 {
     "05ee3a24ed11df058c8.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1227.com": {
@@ -236,13 +237,15 @@
         "state": "future"
     },
     "adscpm.site": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "adshost.site": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "adskom.com": {
@@ -1547,8 +1550,9 @@
         "state": "future"
     },
     "nagatogel.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nenenqq.com": {
@@ -1678,8 +1682,9 @@
         "state": "future"
     },
     "paidforfree.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "painolympics.info": {
@@ -2115,8 +2120,9 @@
         "state": "future"
     },
     "sentrapromosi.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "serbapromo.com": {
