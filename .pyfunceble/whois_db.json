@@ -131,8 +131,9 @@
         "state": "future"
     },
     "88togel.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "99doyan.com": {
@@ -324,8 +325,9 @@
         "state": "future"
     },
     "alertpay.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "allvegaspoker.com": {
@@ -1375,7 +1377,8 @@
     "lpaizureik.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "luckyriverpoker.com": {
         "epoch": 1609977600.0,
@@ -1460,8 +1463,9 @@
         "state": "future"
     },
     "mickeypoker.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "milkfountain.com": {
@@ -1780,7 +1784,8 @@
     "poker24x7.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "poker338a.com": {
         "epoch": 1624579200.0,
@@ -2670,7 +2675,8 @@
     "wbaogaqvrukprx.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "webagenjudi.com": {
         "epoch": 1622937600.0,
@@ -2709,8 +2715,9 @@
         "state": "future"
     },
     "winterrowd.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wizliebeg.com": {
