@@ -168,6 +168,13 @@
             "last_retested_at_iso": "2020-09-08T11:24:09.564251",
             "status": "INACTIVE"
         },
+        "neobola.club": {
+            "included_at_epoch": 1600860669.320573,
+            "included_at_iso": "2020-09-23T11:31:09.320573",
+            "last_retested_at_epoch": 1600860669.320573,
+            "last_retested_at_iso": "2020-09-23T11:31:09.320573",
+            "status": "INACTIVE"
+        },
         "nztoto.com": {
             "included_at_epoch": 1599045653.684623,
             "included_at_iso": "2020-09-02T11:20:53.684623",
