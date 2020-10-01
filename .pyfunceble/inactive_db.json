@@ -2500,10 +2500,10 @@
             "status": "ACTIVE"
         },
         "nztoto.com": {
-            "included_at_epoch": 1599045653.684623,
-            "included_at_iso": "2020-09-02T11:20:53.684623",
-            "last_retested_at_epoch": 1599045653.684623,
-            "last_retested_at_iso": "2020-09-02T11:20:53.684623",
+            "included_at_epoch": 1601551937.396027,
+            "included_at_iso": "2020-10-01T11:32:17.396027",
+            "last_retested_at_epoch": 1601551937.396027,
+            "last_retested_at_iso": "2020-10-01T11:32:17.396027",
             "status": "INACTIVE"
         },
         "octafx.com": {
