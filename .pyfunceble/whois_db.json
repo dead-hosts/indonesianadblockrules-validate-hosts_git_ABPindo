@@ -1507,8 +1507,9 @@
         "state": "future"
     },
     "moneyfree.co": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "motosal.net": {
@@ -1660,8 +1661,9 @@
         "state": "future"
     },
     "onlinepokerextra.com": {
-        "epoch": 1601856000.0,
-        "expiration_date": "05-oct-2020",
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onlinetogel.com": {
@@ -1984,8 +1986,9 @@
         "state": "future"
     },
     "props.id": {
-        "epoch": 1602028800.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "publish.web.id": {
@@ -2298,8 +2301,9 @@
         "state": "future"
     },
     "taruhanbetting.com": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "taruhanbolaku.com": {
