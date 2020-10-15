@@ -233,8 +233,9 @@
         "state": "future"
     },
     "adsbingo.com": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adscpm.site": {
@@ -614,6 +615,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "cyberscat.com": {
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "d0p21g2fep.com": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -740,8 +747,9 @@
         "state": "future"
     },
     "drewpickles.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dutatoto.com": {
@@ -1262,8 +1270,9 @@
         "state": "future"
     },
     "judionlinepoker.com": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "juruiklan.com": {
@@ -1635,8 +1644,9 @@
         "state": "future"
     },
     "olmsoneenh.info": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "onclkds.com": {
@@ -2181,7 +2191,8 @@
     "shiokambing2.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "shitpassion.com": {
         "epoch": 1628726400.0,
@@ -2363,8 +2374,9 @@
         "state": "future"
     },
     "thatsphucked.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "theclickers.net": {
@@ -2439,8 +2451,9 @@
         "state": "future"
     },
     "togel4shared.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "togel66.com": {
