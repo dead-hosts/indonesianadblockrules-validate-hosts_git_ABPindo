@@ -465,8 +465,9 @@
         "state": "future"
     },
     "biotogel.com": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blindbetpoker.com": {
