@@ -723,8 +723,9 @@
         "state": "future"
     },
     "digiads.co.id": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1666224000.0,
+        "expiration_date": "20-oct-2022",
+        "server": "whois.id",
         "state": "future"
     },
     "doathair.com": {
@@ -930,8 +931,9 @@
         "state": "future"
     },
     "gudangbanner.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hai2u.com": {
@@ -2054,8 +2056,9 @@
         "state": "future"
     },
     "rajatoto.com": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "realwap.net": {
@@ -2109,8 +2112,9 @@
         "state": "future"
     },
     "rumahtaruhan88.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sajjadali.com": {
@@ -2190,10 +2194,10 @@
         "state": "future"
     },
     "shiokambing2.com": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "shitpassion.com": {
         "epoch": 1628726400.0,
@@ -2640,8 +2644,9 @@
         "state": "future"
     },
     "uadexchange.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ubcpoker.com": {
@@ -2816,8 +2821,9 @@
         "state": "future"
     },
     "yx-ads6.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zentastic.com": {
