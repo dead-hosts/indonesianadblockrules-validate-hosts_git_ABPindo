@@ -581,8 +581,9 @@
         "state": "future"
     },
     "clickadu.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickmedia.co.id": {
@@ -1653,8 +1654,9 @@
         "state": "future"
     },
     "onclkds.com": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "online5poker.com": {
@@ -2251,8 +2253,9 @@
         "state": "future"
     },
     "star88win.net": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "strawpoii.me": {
