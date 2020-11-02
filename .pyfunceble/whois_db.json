@@ -811,8 +811,9 @@
         "state": "future"
     },
     "fanbangho.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "feltpoker.com": {
@@ -1237,8 +1238,9 @@
         "state": "future"
     },
     "judibola.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "judibolacasino.com": {
@@ -1300,8 +1302,9 @@
         "state": "future"
     },
     "kedaijudi.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1667088000.0,
+        "expiration_date": "30-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kids-in-sandbox.com": {
@@ -1427,8 +1430,9 @@
         "state": "future"
     },
     "mansionpoker.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "markastogel.com": {
@@ -1454,8 +1458,9 @@
         "state": "future"
     },
     "masterjudi.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "maxbetqq.net": {
@@ -1682,8 +1687,9 @@
         "state": "future"
     },
     "onlinetogel.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "openadserving.com": {
@@ -1766,6 +1772,12 @@
     "pc3ads.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "peevopoy.com": {
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "perjudianonline.com": {
@@ -2616,8 +2628,9 @@
         "state": "future"
     },
     "truepoker.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tsyndolls.com": {
@@ -2637,8 +2650,9 @@
         "state": "future"
     },
     "tummiarunzpf.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "turdgasm.com": {
