@@ -1226,10 +1226,10 @@
             "status": "ACTIVE"
         },
         "dzbx8qv1at614.cloudfront.net": {
-            "included_at_epoch": 1602416124.934904,
-            "included_at_iso": "2020-10-11T11:35:24.934904",
-            "last_retested_at_epoch": 1604318931.346563,
-            "last_retested_at_iso": "2020-11-02T12:08:51.346563",
+            "included_at_epoch": 1604836271.400933,
+            "included_at_iso": "2020-11-08T11:51:11.400933",
+            "last_retested_at_epoch": 1604836271.400933,
+            "last_retested_at_iso": "2020-11-08T11:51:11.400933",
             "status": "INACTIVE"
         },
         "e7393e33565ce805.com": {
