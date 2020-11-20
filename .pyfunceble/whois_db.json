@@ -1438,7 +1438,8 @@
     "magic4you.nu": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
-        "state": "future"
+        "server": "whois.iis.nu",
+        "state": "past"
     },
     "mainjudiinternet.com": {
         "epoch": 1614384000.0,
@@ -1469,8 +1470,9 @@
         "state": "future"
     },
     "masteriklan.net": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "masterjudi.com": {
@@ -2528,8 +2530,9 @@
         "state": "future"
     },
     "togelm88.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "togelo.com": {
