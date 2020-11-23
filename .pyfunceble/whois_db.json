@@ -266,7 +266,8 @@
     "adtimeselaras.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "afapoker.com": {
         "epoch": 1616803200.0,
@@ -919,7 +920,8 @@
     "goldtoto.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "groucign.com": {
         "epoch": 1615593600.0,
@@ -2602,8 +2604,9 @@
         "state": "future"
     },
     "totobet4d.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "totojitu1.com": {
