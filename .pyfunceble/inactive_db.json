@@ -561,10 +561,10 @@
             "status": "ACTIVE"
         },
         "asiapoker777.com": {
-            "included_at_epoch": 1603887659.610616,
-            "included_at_iso": "2020-10-28T12:20:59.610616",
-            "last_retested_at_epoch": 1605876994.762175,
-            "last_retested_at_iso": "2020-11-20T12:56:34.762175",
+            "included_at_epoch": 1606308512.445437,
+            "included_at_iso": "2020-11-25T12:48:32.445437",
+            "last_retested_at_epoch": 1606308512.445437,
+            "last_retested_at_iso": "2020-11-25T12:48:32.445437",
             "status": "INACTIVE"
         },
         "astonwin.org": {
