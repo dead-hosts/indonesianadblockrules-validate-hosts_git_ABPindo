@@ -493,10 +493,10 @@
         "state": "future"
     },
     "bluewaffle.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "bmepainolympics2.com": {
         "epoch": 1623542400.0,
@@ -695,10 +695,10 @@
         "state": "future"
     },
     "dearerfonder.info": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "delapantogel.com": {
         "epoch": 1615852800.0,
@@ -2414,7 +2414,8 @@
     "texaspokercc2.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "texaspokercc3.com": {
         "epoch": 1612656000.0,
@@ -2564,8 +2565,9 @@
         "state": "future"
     },
     "togeltogel.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "togeltop.com": {
