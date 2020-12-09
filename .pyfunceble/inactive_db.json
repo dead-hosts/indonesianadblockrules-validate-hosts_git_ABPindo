@@ -1499,10 +1499,10 @@
             "status": "ACTIVE"
         },
         "hasiltogel.club": {
-            "included_at_epoch": 1605011002.775641,
-            "included_at_iso": "2020-11-10T12:23:22.775641",
-            "last_retested_at_epoch": 1606914322.868529,
-            "last_retested_at_iso": "2020-12-02T13:05:22.868529",
+            "included_at_epoch": 1607517549.279977,
+            "included_at_iso": "2020-12-09T12:39:09.279977",
+            "last_retested_at_epoch": 1607517549.279977,
+            "last_retested_at_iso": "2020-12-09T12:39:09.279977",
             "status": "ACTIVE"
         },
         "hegarberetrof.pro": {
