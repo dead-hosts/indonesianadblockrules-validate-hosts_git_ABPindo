@@ -2465,10 +2465,10 @@
             "status": "ACTIVE"
         },
         "neobola.club": {
-            "included_at_epoch": 1605701870.62725,
-            "included_at_iso": "2020-11-18T12:17:50.627250",
-            "last_retested_at_epoch": 1607949765.123311,
-            "last_retested_at_iso": "2020-12-14T12:42:45.123311",
+            "included_at_epoch": 1608207975.324743,
+            "included_at_iso": "2020-12-17T12:26:15.324743",
+            "last_retested_at_epoch": 1608207975.324743,
+            "last_retested_at_iso": "2020-12-17T12:26:15.324743",
             "status": "INACTIVE"
         },
         "newsupdatewe.info": {
