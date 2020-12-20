@@ -17,8 +17,9 @@
         "state": "future"
     },
     "1girl1pitcher.com": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1girl1pitcher.org": {
@@ -1074,10 +1075,10 @@
         "state": "future"
     },
     "iklandenpasar.com": {
-        "epoch": 1607904000.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "iklangratis.com": {
         "epoch": 1613779200.0,
@@ -1578,8 +1579,9 @@
         "state": "future"
     },
     "muchospoker.com": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mudfall.com": {
@@ -1852,8 +1854,9 @@
         "state": "future"
     },
     "planettoto.com": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "playwinpoker.com": {
@@ -1894,8 +1897,9 @@
         "state": "future"
     },
     "pokercc.com": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pokercc1.com": {
@@ -2354,8 +2358,9 @@
         "state": "future"
     },
     "suryaiklan.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sweety.biz": {
