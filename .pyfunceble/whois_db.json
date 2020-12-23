@@ -1174,8 +1174,9 @@
         "state": "future"
     },
     "istanaimpian2.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "istanaimpian3.com": {
@@ -2500,8 +2501,9 @@
         "state": "future"
     },
     "tinggalklik.com": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tipsberjudi.com": {
