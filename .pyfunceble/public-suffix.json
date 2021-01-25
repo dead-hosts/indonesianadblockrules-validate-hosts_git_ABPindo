@@ -5464,6 +5464,7 @@
         "uk.net",
         "in.net",
         "clic2000.net",
+        "clickrising.net",
         "cloudaccess.net",
         "cdn77-ssl.net",
         "r.cdn77.net",
@@ -5591,6 +5592,8 @@
         "serveminecraft.net",
         "sytes.net",
         "cloudycluster.net",
+        "webpaas.ovh.net",
+        "hosting.ovh.net",
         "bar0.net",
         "bar1.net",
         "bar2.net",
@@ -7044,8 +7047,8 @@
         "go.pw",
         "belau.pw",
         "cloudns.pw",
-        "nom.pw",
-        "x443.pw"
+        "x443.pw",
+        "nom.pw"
     ],
     "py": [
         "com.py",
