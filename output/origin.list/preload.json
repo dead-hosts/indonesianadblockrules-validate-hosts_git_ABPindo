@@ -8,8 +8,8 @@
     "previous_hash": "83e32df3e12ccdc8dfcb715aaeac2c422cb3ee8d096680135bffeac4",
     "rel_source": "origin.list",
     "session_id": "91636bf7a46fdbc1f6d7e7a8",
-    "source": "/home/runner/work/indonesianadblockrules-validate-hosts_git_ABPindo/indonesianadblockrules-validate-hosts_git_ABPindo/origin.list",
-    "subject": "/home/runner/work/indonesianadblockrules-validate-hosts_git_ABPindo/indonesianadblockrules-validate-hosts_git_ABPindo/origin.list",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
