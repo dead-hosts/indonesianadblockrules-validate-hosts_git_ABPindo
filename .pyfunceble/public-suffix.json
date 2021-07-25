@@ -3716,6 +3716,7 @@
         "ne.jp",
         "nemuro.hokkaido.jp",
         "nerima.tokyo.jp",
+        "net.lr",
         "neyagawa.osaka.jp",
         "nichinan.miyazaki.jp",
         "nichinan.tottori.jp",
@@ -4822,6 +4823,7 @@
         "router.management"
     ],
     "marketing": [
+        "from.marketing",
         "with.marketing"
     ],
     "mc": [
@@ -5749,6 +5751,7 @@
         "office-on-the.net",
         "onavstack.net",
         "ownip.net",
+        "pagefrontapp.com",
         "pages.torproject.net",
         "pgafan.net",
         "podzone.net",
@@ -7656,7 +7659,6 @@
         "com.sh",
         "ent.platform.sh",
         "eu.platform.sh",
-        "from.marketing",
         "gov.sh",
         "hashbang.sh",
         "mil.sh",
