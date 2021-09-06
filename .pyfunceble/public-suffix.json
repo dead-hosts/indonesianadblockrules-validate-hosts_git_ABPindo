@@ -5695,7 +5695,6 @@
         "isa-geek.net",
         "j.scaleforce.net",
         "jelastic.saveincloud.net",
-        "jelastic.tsukaeru.net",
         "jls-sto1.elastx.net",
         "jls-sto2.elastx.net",
         "jls-sto3.elastx.net",
@@ -7815,6 +7814,7 @@
         "org.sy"
     ],
     "systems": [
+        "jelastic.tsukaeru.net",
         "knightpoint.systems"
     ],
     "sz": [
