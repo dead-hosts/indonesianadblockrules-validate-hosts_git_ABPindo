@@ -8331,7 +8331,6 @@
         "lib.pr.us",
         "lib.ri.us",
         "lib.sc.us",
-        "lib.sd.us",
         "lib.tn.us",
         "lib.tx.us",
         "lib.ut.us",
@@ -8485,6 +8484,7 @@
         "dyndns.ws",
         "edu.ws",
         "gov.ws",
+        "lib.sd.us",
         "mypets.ws",
         "net.ws",
         "org.ws"
