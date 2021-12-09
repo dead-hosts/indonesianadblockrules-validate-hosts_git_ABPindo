@@ -38,7 +38,7 @@ cli_testing:
         hosts: false
         merge_output_dirs: false
         no_file: false
-        plain: true
+        plain: false
         unified_results: false
     hosts_ip: 0.0.0.0
     inactive_db: true
