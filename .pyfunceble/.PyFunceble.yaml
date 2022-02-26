@@ -1,4 +1,4 @@
-adblock: true
+
 cli_decoding:
     adblock: false
     adblock_aggressive: false
@@ -7,7 +7,7 @@ cli_decoding:
 cli_testing:
     autocontinue: true
     ci:
-        active: false
+        active: true
         branch: master
         command: hash dead_hosts_launcher && dead_hosts_launcher --save
         commit_message: '[Autosave][Dead-Hosts::]'
@@ -38,14 +38,14 @@ cli_testing:
         hosts: false
         merge_output_dirs: false
         no_file: false
-        plain: false
+        plain: true
         unified_results: false
     hosts_ip: 0.0.0.0
     inactive_db: true
     local_network: false
     max_workers: null
     mining: false
-    preload_file: false
+    preload_file: true
     sorting_mode:
         hierarchical: false
         standard: true
