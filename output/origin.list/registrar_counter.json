@@ -1,40 +1,10 @@
 {
     "counter": {
-        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 1,
-        "Above.com Pty Ltd.": 1,
-        "DYNADOT, LLC": 1,
-        "Danesco Trading Ltd.": 2,
-        "GoDaddy.com, LLC": 6,
-        "Google LLC": 1,
-        "MAFF Inc.": 1,
-        "NameCheap, Inc.": 5,
-        "Namecheap": 2,
-        "Porkbun LLC": 1,
-        "REGRU-RU": 1,
-        "Tucows Domains Inc.": 1,
-        "URL Solutions Inc.": 4,
-        "URL Solutions, Inc.": 23,
-        "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "eNom, LLC": 4,
-        "total": 55
+        "URL Solutions, Inc.": 2,
+        "total": 2
     },
     "percentage": {
-        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 1.8181818181818181,
-        "Above.com Pty Ltd.": 1.8181818181818181,
-        "DYNADOT, LLC": 1.8181818181818181,
-        "Danesco Trading Ltd.": 3.6363636363636362,
-        "GoDaddy.com, LLC": 10.909090909090908,
-        "Google LLC": 1.8181818181818181,
-        "MAFF Inc.": 1.8181818181818181,
-        "NameCheap, Inc.": 9.090909090909092,
-        "Namecheap": 3.6363636363636362,
-        "Porkbun LLC": 1.8181818181818181,
-        "REGRU-RU": 1.8181818181818181,
-        "Tucows Domains Inc.": 1.8181818181818181,
-        "URL Solutions Inc.": 7.2727272727272725,
-        "URL Solutions, Inc.": 41.81818181818182,
-        "Web Commerce Communications Limited dba WebNic.cc": 1.8181818181818181,
-        "eNom, LLC": 7.2727272727272725,
-        "total": 99.99999999999999
+        "URL Solutions, Inc.": 100.0,
+        "total": 100.0
     }
 }
