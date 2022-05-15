@@ -1,10 +1,19 @@
-# About indonesianadblockrules-validate-hosts_git_ABPindo
+# About ABPindo host
 
 [![Build Status](https://travis-ci.org/dead-hosts/indonesianadblockrules-validate-hosts_git_ABPindo.svg?branch=master)](https://travis-ci.org/dead-hosts/indonesianadblockrules-validate-hosts_git_ABPindo)
 
 ```
-! ---------------------- advert blocking filters ----------------------!
-
+! Title: ABPindo host
+! Description: Filter berbasis domain tambahan guna memblokir iklan berbahasa Indonesia dan Malaysia.
+! Expires: 4 days (update frequency)
+! Homepage: http://abpindo.blogspot.com/
+! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
+! 
+! Please report any unblocked adverts or problems
+! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
+! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
+! 
+! Hanya terdiri dari domain ABPindo_adserver dan ABPindo_third-party untuk menimalisir salah blokir. Bisa digunakan dengan perangkat lunak penapis berbasis DNS.
 ```
 
 --------------------------------------------------------------------------------
