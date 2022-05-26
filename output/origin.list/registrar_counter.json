@@ -1,10 +1,12 @@
 {
     "counter": {
-        "101domain GRS Limited": 1,
-        "total": 1
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 1,
+        "URL Solutions, Inc.": 1,
+        "total": 2
     },
     "percentage": {
-        "101domain GRS Limited": 100.0,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 50.0,
+        "URL Solutions, Inc.": 50.0,
         "total": 100.0
     }
 }
