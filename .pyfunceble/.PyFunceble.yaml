@@ -1,9 +1,8 @@
-adblock: true
 cli_decoding:
-    adblock: true
+    adblock: false
     adblock_aggressive: false
-    rpz: true
-    wildcard: true
+    rpz: false
+    wildcard: false
 cli_testing:
     autocontinue: true
     chancy_tester: true
@@ -38,7 +37,7 @@ cli_testing:
     file_filter: null
     file_generation:
         analytic: true
-        hosts: true
+        hosts: false
         merge_output_dirs: false
         no_file: false
         plain: true
@@ -47,14 +46,14 @@ cli_testing:
     inactive_db: true
     local_network: false
     max_workers: 5
-    mining: true
+    mining: false
     preload_file: false
     sorting_mode:
         hierarchical: false
         standard: true
     testing_mode:
         availability: true
-        reputation: true
+        reputation: false
         syntax: false
     whois_db: true
 collection:
