@@ -15,7 +15,7 @@
     "live_update": true,
     "name": "indonesianadblockrules-validate-hosts_git_ABPindo",
     "own_management": false,
-    "ping": [],
+    "ping": [@gmarcher],
     "raw_link": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt",
     "start_datetime": "2021-12-09T12:00:25.205857",
     "start_timestamp": 1639026025.205857
