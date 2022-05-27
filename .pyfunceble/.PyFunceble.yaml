@@ -47,14 +47,14 @@ cli_testing:
     inactive_db: true
     local_network: false
     max_workers: 5
-    mining: false
+    mining: true
     preload_file: false
     sorting_mode:
         hierarchical: false
         standard: true
     testing_mode:
         availability: true
-        reputation: false
+        reputation: true
         syntax: false
     whois_db: true
 collection:
