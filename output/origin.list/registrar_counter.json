@@ -1,12 +1,10 @@
 {
     "counter": {
-        "CBN Registrar": 1,
         "URL Solutions, Inc.": 1,
-        "total": 2
+        "total": 1
     },
     "percentage": {
-        "CBN Registrar": 50.0,
-        "URL Solutions, Inc.": 50.0,
+        "URL Solutions, Inc.": 100.0,
         "total": 100.0
     }
 }
