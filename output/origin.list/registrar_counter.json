@@ -1,46 +1,10 @@
 {
     "counter": {
-        "101domain GRS Limited": 1,
-        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 1,
-        "Above.com Pty Ltd.": 1,
-        "DYNADOT, LLC": 1,
-        "Danesco Trading Ltd.": 2,
-        "GoDaddy.com, LLC": 4,
-        "Google LLC": 1,
-        "Gransy, s.r.o.": 1,
-        "MAFF Inc.": 1,
-        "NameCheap, Inc.": 3,
-        "Namecheap": 2,
-        "Porkbun LLC": 1,
-        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 1,
-        "REGRU-RU": 1,
-        "Tucows Domains Inc.": 1,
-        "URL Solutions Inc.": 3,
-        "URL Solutions, Inc.": 12,
-        "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "eNom, LLC": 1,
-        "total": 39
+        "URL Solutions, Inc.": 1,
+        "total": 1
     },
     "percentage": {
-        "101domain GRS Limited": 2.5641025641025643,
-        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 2.5641025641025643,
-        "Above.com Pty Ltd.": 2.5641025641025643,
-        "DYNADOT, LLC": 2.5641025641025643,
-        "Danesco Trading Ltd.": 5.128205128205129,
-        "GoDaddy.com, LLC": 10.256410256410257,
-        "Google LLC": 2.5641025641025643,
-        "Gransy, s.r.o.": 2.5641025641025643,
-        "MAFF Inc.": 2.5641025641025643,
-        "NameCheap, Inc.": 7.6923076923076925,
-        "Namecheap": 5.128205128205129,
-        "Porkbun LLC": 2.5641025641025643,
-        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 2.5641025641025643,
-        "REGRU-RU": 2.5641025641025643,
-        "Tucows Domains Inc.": 2.5641025641025643,
-        "URL Solutions Inc.": 7.6923076923076925,
-        "URL Solutions, Inc.": 30.76923076923077,
-        "Web Commerce Communications Limited dba WebNic.cc": 2.5641025641025643,
-        "eNom, LLC": 2.5641025641025643,
-        "total": 100.00000000000001
+        "URL Solutions, Inc.": 100.0,
+        "total": 100.0
     }
 }
