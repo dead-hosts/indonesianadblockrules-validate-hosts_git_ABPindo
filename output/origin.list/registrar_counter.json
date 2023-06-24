@@ -1,10 +1,28 @@
 {
     "counter": {
+        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 2,
+        "Above.com Pty Ltd.": 2,
+        "CV. JOGJACAMP": 2,
+        "DYNADOT, LLC": 2,
+        "GoDaddy.com, LLC": 6,
+        "Namecheap": 4,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 2,
         "Tucows Domains Inc.": 2,
-        "total": 2
+        "URL Solutions, Inc.": 16,
+        "eNom, LLC": 2,
+        "total": 40
     },
     "percentage": {
-        "Tucows Domains Inc.": 100.0,
+        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 5.0,
+        "Above.com Pty Ltd.": 5.0,
+        "CV. JOGJACAMP": 5.0,
+        "DYNADOT, LLC": 5.0,
+        "GoDaddy.com, LLC": 15.0,
+        "Namecheap": 10.0,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 5.0,
+        "Tucows Domains Inc.": 5.0,
+        "URL Solutions, Inc.": 40.0,
+        "eNom, LLC": 5.0,
         "total": 100.0
     }
 }
