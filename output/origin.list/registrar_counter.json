@@ -1,20 +1,10 @@
 {
     "counter": {
-        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 2,
-        "Above.com Pty Ltd.": 2,
-        "GoDaddy.com, LLC": 2,
-        "Namecheap": 4,
         "URL Solutions, Inc.": 4,
-        "eNom, LLC": 2,
-        "total": 16
+        "total": 4
     },
     "percentage": {
-        "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED": 12.5,
-        "Above.com Pty Ltd.": 12.5,
-        "GoDaddy.com, LLC": 12.5,
-        "Namecheap": 25.0,
-        "URL Solutions, Inc.": 25.0,
-        "eNom, LLC": 12.5,
+        "URL Solutions, Inc.": 100.0,
         "total": 100.0
     }
 }
