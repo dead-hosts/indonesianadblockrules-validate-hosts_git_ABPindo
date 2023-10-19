@@ -1,32 +1,14 @@
 {
     "counter": {
-        "101domain GRS Limited": 2,
-        "Danesco Trading Ltd.": 4,
-        "GoDaddy.com, LLC": 8,
-        "Google LLC": 2,
-        "Gransy, s.r.o.": 2,
-        "MAFF Inc.": 2,
-        "NameCheap, Inc.": 4,
-        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 2,
-        "REGRU-RU": 2,
-        "URL Solutions Inc.": 6,
-        "URL Solutions, Inc.": 14,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 50
+        "NameCheap, Inc.": 2,
+        "Tucows Domains Inc.": 2,
+        "URL Solutions, Inc.": 4,
+        "total": 8
     },
     "percentage": {
-        "101domain GRS Limited": 4.0,
-        "Danesco Trading Ltd.": 8.0,
-        "GoDaddy.com, LLC": 16.0,
-        "Google LLC": 4.0,
-        "Gransy, s.r.o.": 4.0,
-        "MAFF Inc.": 4.0,
-        "NameCheap, Inc.": 8.0,
-        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 4.0,
-        "REGRU-RU": 4.0,
-        "URL Solutions Inc.": 12.0,
-        "URL Solutions, Inc.": 28.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 4.0,
+        "NameCheap, Inc.": 25.0,
+        "Tucows Domains Inc.": 25.0,
+        "URL Solutions, Inc.": 50.0,
         "total": 100.0
     }
 }
